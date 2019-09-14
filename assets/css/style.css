@@ -170,7 +170,7 @@ h1 {
 |----------------------------------------------------------------------------
 */
 #header-top {
-  min-height: 10px;
+  min-height: 0px;
   background: inherit;
 }
 #header-top .top-contact {
@@ -844,7 +844,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 |----------------------------------------------------------------------------
 */
 .interests ul {
-  padding-left: 1px;
+  padding-left: 0px;
   background-color: #a5ffcd;
   overflow: hidden;
   align-content: center;

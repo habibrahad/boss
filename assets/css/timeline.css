@@ -27,7 +27,7 @@ Main components
   /* this is the vertical line */
   content: '';
   position: absolute;
-  top: 10px;
+  top: 10;
   left: 18px;
   height: 90%;
   width: 3px;
@@ -379,7 +379,7 @@ Main components
   /* this is the vertical line */
   content: '';
   position: absolute;
-  top: 10px;
+  top: 10;
   left: 18px;
   height: 90%;
   width: 3px;
@@ -570,7 +570,7 @@ Main components
     top: 0px;
     left: 100%;
     border-color: transparent;
-    border-left-color: #d8ecf3;
+    border-left-color: #a5ffcd;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -593,7 +593,7 @@ Main components
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: #d8ecf3;
+    border-right-color: #ffd4c0;
   }
   .cssanimations .cd-timeline-content.is-hidden {
     visibility: hidden;
